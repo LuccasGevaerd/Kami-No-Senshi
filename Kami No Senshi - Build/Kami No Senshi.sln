@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kami No Senshi", "Kami No Senshi.csproj", "{B6767634-E343-47CA-E42F-F7A8E25BE349}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kami No Senshi.Plugins", "Kami No Senshi.Plugins.csproj", "{D6499D23-E13F-8726-D579-D07E27871B46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kami No Senshi.Editor", "Kami No Senshi.Editor.csproj", "{5339DE73-2235-9C64-3CF0-22C21D3D724A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6767634-E343-47CA-E42F-F7A8E25BE349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6767634-E343-47CA-E42F-F7A8E25BE349}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6767634-E343-47CA-E42F-F7A8E25BE349}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6767634-E343-47CA-E42F-F7A8E25BE349}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6499D23-E13F-8726-D579-D07E27871B46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6499D23-E13F-8726-D579-D07E27871B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6499D23-E13F-8726-D579-D07E27871B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6499D23-E13F-8726-D579-D07E27871B46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5339DE73-2235-9C64-3CF0-22C21D3D724A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5339DE73-2235-9C64-3CF0-22C21D3D724A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5339DE73-2235-9C64-3CF0-22C21D3D724A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5339DE73-2235-9C64-3CF0-22C21D3D724A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
